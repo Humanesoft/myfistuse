@@ -1,3 +1,3 @@
-module github.com/Humanesoft/Test
+module github.com/Humanesoft/myfistuse
 
 go 1.20
